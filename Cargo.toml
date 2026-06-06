@@ -1,0 +1,6 @@
+[package]
+name = "ternary-backpressure"
+version = "0.1.0"
+edition = "2021"
+description = "Backpressure management for GPU pipelines with ternary pressure signals. Adaptive flow control, congestion detection, weighted fairness."
+license = "MIT"
